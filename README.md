@@ -11,4 +11,4 @@
 - **Grid Layout**.
 - Файловая структура проекта по правилам Nested БЭМ.
 
-Сайт доступен по ссылке: https://asyakk.github.io/russian-travel/
+Сайт доступен по ссылке: https://asyakk.github.io/russian-travel /
